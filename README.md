@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 魔王教授<br>
 エルマス<br>
 わかば
+asdf
 
 # ディレクトリ構成
 ```
